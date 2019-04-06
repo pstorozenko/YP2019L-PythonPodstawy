@@ -60,5 +60,9 @@ d[42] = 42
 print(d)
 d[t] = "krotka"
 print(d)
-d[l] = "lista"
-print(d)
+# d[l] = "lista"
+# print(d)
+
+print("Wyświetlanie słownika")
+for e in d:
+    print(e, d[e])
