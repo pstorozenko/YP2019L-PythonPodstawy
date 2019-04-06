@@ -20,15 +20,15 @@ l2 = ['Poniedziałek', 'Wtorek', 'Środy', 'Czwartek', 'Piątek', 'Sobota', 'Nie
 ```
 
 1. Wyświetli wszystkie elementy słownika `d1`.
-2. Połączy dwa słowniki w jeden `d1` i `d2`. Najpierw stwórz wynikowy słownik pusty `d3`, a następnie dodaj do niego każdy element z `d1` i z `d2`.
 3. Zsumuje wszystkie wartości w słowniku `d1`.
 4. Wyświetli każdy element listy `l1` razy 2.
-5. Zamieni dwie listy na słownik, przy czym elementy pierwszej listy będą kluczami, a drugiej listy wartościami `l1` `l2`.
 6. Znajdzie maksimum i minimum z wartości w liście `l1`.
 7. Stworzy zbiór `s1` złożony z liczb od 0 do 10.
-8. Stworzy krotkę z elementów 11, "listopada", 2018.
+8. Stworzy krotkę z elementów 1, "maja", 2019.
 9. Znajdzie i wypisze na ekran elementy, który powtarzają się w krotce `(1,2,11,1,1,4)`.
 10. Usunie puste krotki z listy krotek, dla wejścia `[(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]` zwróci `[('',), ('a', 'b'), ('a', 'b', 'c'), 'd']`.
+2. Połączy dwa słowniki w jeden `d1` i `d2`. Najpierw stwórz wynikowy słownik pusty `d3`, a następnie dodaj do niego każdy element z `d1` i z `d2`.
+5. Zamieni dwie listy na słownik, przy czym elementy pierwszej listy będą kluczami, a drugiej listy wartościami `l1` `l2`.
 
 ## Dla znudzonych
 
