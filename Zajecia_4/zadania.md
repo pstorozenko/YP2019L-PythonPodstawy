@@ -35,7 +35,7 @@ l2 = ['Poniedziałek', 'Wtorek', 'Środy', 'Czwartek', 'Piątek', 'Sobota', 'Nie
 Zbliżają się Mikołajki. Mikołaj chodzi już po osiedlu zakradając się do domów.
 Sprytny Bajtek zostawił w kominie samoprzylepny nadajnik GPS.
 Dzięki niemu jest w stanie śledzić położenia Mikołaja.
-Niestety nadajnik nie jest doskonały i w informuje Bajtka jedynie o względnych zmianach położenia Mikołaja.
+Niestety nadajnik nie jest doskonały i informuje Bajtka jedynie o względnych zmianach położenia Mikołaja.
 Informacja, którą dostaje Bajtek przedstawiła się następująco:
 ```
 ^^><>>^^^><<<<<^>^>^>^>>V>V^>>V^>V^>V>^>V>^V>^V<^><^V><>^<><>V<<>^^V>^>VV^>>^<>^V<>V^<<><V><^>V<>V<^>V^<<>V^<<>V^<<V>^>><V>^V><>^V<^<^V>V^<^V<>^V>^<>V^><V^><V^<V^><V<V^>^V<>V^<<<>>>>^^^^^VVV^V^V^VV^V^V^V^^V<^>^V>^VV^>^V>VV^<>V^>
